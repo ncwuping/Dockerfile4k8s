@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/etcd-amd64:latest
+FROM gcr.io/google_containers/etcd-amd64:3.0.17
 MAINTAINER Ushuaia Wu Ping <ncwuping@hotmail.com>
